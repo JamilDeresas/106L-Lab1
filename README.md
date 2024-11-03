@@ -1,1 +1,1 @@
-# 106L-Lab1
+Programming Problems 1 and 2
